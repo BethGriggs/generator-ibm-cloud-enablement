@@ -1,4 +1,4 @@
-# IBM Cloud Enablement Generator
+## IBM Cloud Enablement Generator
 
 [![IBM Cloud powered][img-ibmcloud-powered]][url-cloud]
 [![Travis][img-travis-master]][url-travis-master]
